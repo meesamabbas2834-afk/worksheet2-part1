@@ -6,6 +6,7 @@ This repository serves as the submission for the first half of Worksheet 2. The 
 To ensure maintainability, the source code is split between logic (`source`) and hardware interfaces (`drivers`), with build artifacts isolated in the `iso` folder.
 
 **File Hierarchy:**
+
 ![Project Layout](screenshots/project_sructure.png)
 
 ---
